@@ -1,0 +1,117 @@
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************	
+	PAÍSES		 			  OURO-PRATA-BRONZE-TOTAL
+
+1	Estados Unidos					0	0	0	0
+2	China 						0	0	0	0
+3	Japão 						0	0	0	0
+4	Reino Unido 					0	0	0	0
+5	ROC 						0	0	0	0
+6	Austrália 					0	0	0	0
+7	Holanda 					0	0	0	0
+8	França 						0	0	0	0
+9	Alemanha 					0	0	0	0
+10	Itália Itália					0	0	0	0
+11	Canadá Canadá					0	0	0	0
+12	Brasil Brasil					0	0	0	0
+13	Nova Zelândia 					0	0	0	0
+14	Cuba Cuba					0	0	0	0
+15	Hungria Hungria					0	0	0	0
+16	Coreia do Sul 					0	0	0	0
+17	Polônia Polônia					0	0	0	0
+18	República Tcheca				0	0	0	0
+19	Quênia 						0	0	0	0
+20	Noruega 					0	0	0	0
+21	Jamaica 					0	0	0	0
+22	Espanha 					0	0	0	0
+23	Suécia 						0	0	0	0
+24	Suíça 						0	0	0	0
+25	Dinamarca 					0	0	0	0
+26	Croácia 					0	0	0	0
+27	Irã 						0	0	0	0
+28	Sérvia 						0	0	0	0
+29	Bélgica 					0	0	0	0
+30	Bulgaria 					0	0	0	0
+31	Eslovênia 					0	0	0	0
+32	Uzbequistão 					0	0	0	0
+33	Geórgia 					0	0	0	0
+34	China 	 					0	0	0	0
+35	Turquia 					0	0	0	0
+36	Grécia 						0	0	0	0
+37	Uganda 						0	0	0	0
+38	Equador 					0	0	0	0
+39	Israel 						0	0	0	0
+40	Irlanda 					0	0	0	0
+41	Catar 						0	0	0	0
+42	Kosovo 						0	0	0	0
+43	Bahamas 					0	0	0	0
+44	Ucrânia 					0	0	0	0
+45	Belarus 					0	0	0	0
+46	Romênia 					0	0	0	0
+47	Venezuela 					0	0	0	0
+48	Índia 						0	0	0	0
+49	Hong Kong 					0	0	0	0
+50	Filipinas 					0	0	0	0
+51	Eslováquia 					0	0	0	0
+52	África do Sul 					0	0	0	0
+53	Áustria 					0	0	0	0
+54	Egito 						0	0	0	0
+55	Indonésia 					0	0	0	0
+56	Portugal 					0	0	0	0
+57	Etiópia 					0	0	0	0
+58	Tunísia 					0	0	0	0
+59	Estônia 					0	0	0	0
+60	Tailândia 					0	0	0	0
+61	Fiji Fiji					0	0	0	0
+62	Letônia 					0	0	0	0
+63	Bermudas 					0	0	0	0
+64	Porto Rico 					0	0	0	0
+65	Marrocos 					0	0	0	0
+66	Colômbia 					0	0	0	0
+67	Azerbaijão 					0	0	0	0
+68	R. Dominicana 					0	0	0	0
+69	Armênia Armênia					0	0	0	0	
+70	Quirquistão 					0	0	0	0
+71	Mongólia 					0	0	0	0
+72	Argentina 					0	0	0	0
+73	San Marino 					0	0	0	0
+74	Jordania 					0	0	0	0
+75	Malásia 					0	0	0	0
+76	Nigéria 					0	0	0	0	
+77	Turkmenistan 					0	0	0	0
+78	Macedonia 					0	0	0	0
+79	Namibia 					0	0	0	0
+80	Lituânia 					0	0	0	0
+81	Bahrein 					0	0	0	0
+82	Arábia Saudita 					0	0	0	0
+83	Cazaquistão 					0	0	0	0
+84	México 						0	0	0	0
+85	Finlândia 					0	0	0	0
+86	Kuwait 						0	0	0	0
+87	Costa de Marfil 				0	0	0	0
+88	Ghana 						0	0	0	0
+89	Siria 						0	0	0	0
+90	Burkina 					0	0	0	0
+91	Granada 					0	0	0	0
+92	Moldávia					0	0	0	0
+93	Botsuana 					0	0	0	0
+94	Rússia 						0	0	0	0
+95	Coreia do Norte 				0	0	0	0
+96	Vietnã 						0	0	0	0
+97	Part Olimpico  					0	0	0	0
+98	Tadjiquistão 					0	0	0	0
+99	Cingapura 					0	0	0	0
+100	Argélia 					0	0	0	0
+101	Burundi 					0	0	0	0
+102	Niger 						0	0	0	0
+103	Trinidad,Tobago					0	0	0	0
+104	Emirados Árabes 				0	0	0	0
+
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************
+****************************************************************************************************************

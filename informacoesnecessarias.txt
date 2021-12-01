@@ -1,0 +1,24 @@
+Todas as informações encontrada no documento foram tiradas de anúncios oficiais, e as informações que não encontradas pois nao existiam de forma oficias e seguras.
+
+Informações para entrada de usuário no programa de linguagem c. 
+
+login:admin\\ SEM ESPAÇOS E CARACTERES DIFERENTES
+senha:admin \\ SEM ESPAÇOS E CARACTERES DIFERENTES
+
+O programa foi feito e está totalmente de acordo com oque foi pedido no documento PIM II que foi passado em aula.
+
+Obrigado e foi um prazer termos feito esse trabalho. Estamos ansiosos para mais projetos.
+
+Nao utilizamos o terminal do windows e sim o terminal WSL ou Windows Subsystem for Linux que nos permite a execução da plataforma linux dentro do windows.
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+***********************************************************************************************
+E sinceramente nao gostamos do codeblocks, por isso foi feito no wsl e virtual studio code.
+
+Método de compilamento no terminal::
+
+gcc -o pim2 cadastro.c utils.c tp1.c
+./pim2
+
